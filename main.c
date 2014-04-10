@@ -1,3 +1,4 @@
+Теперь когда я в lastname ветке, я могу делать мои новые модификации:
 #include <stdio.h>
 #include <string.h>
 
